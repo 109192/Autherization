@@ -5,7 +5,7 @@ This is handling roles and privileges
 # Description :
 
 # { Pic 1 } :
-![Connected File Image] (https://github.com/109192/Autherization/blob/7f4202ad20732766b5812650d6ff15f5ce5f74f0/Pic/Screen%20Shot%201443-07-30%20at%2023.01.31.png)
+<img width="870" alt="Screen Shot 1443-07-30 at 23 01 31" src="https://user-images.githubusercontent.com/100592919/156647844-39f69c5c-a958-46f1-8b5a-ceb70673ed67.png">
 
 It’s show the methods and arrays used from other file , and how connect the file in same folder as well as connected from different folder .
 
